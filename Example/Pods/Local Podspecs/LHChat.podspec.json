@@ -1,0 +1,22 @@
+{
+  "name": "LHChat",
+  "version": "0.1.0",
+  "summary": "A short description of LHChat.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/myenglish5@163.com/LHChat",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "myenglish5@163.com": "393139248@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/myenglish5@163.com/LHChat.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LHChat/Classes/**/*"
+}
