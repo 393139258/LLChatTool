@@ -22,7 +22,7 @@ pod 'LHChat'
 
 ## Author
 
-myenglish5@163.com, 393139248@qq.com
+393139248@qq.com
 
 ## License
 
