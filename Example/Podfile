@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LHChat_Tests' do
+  pod 'LHChat', :path => '../'
+  
+  
+end
